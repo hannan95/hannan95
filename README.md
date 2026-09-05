@@ -18,5 +18,5 @@ Self-taught frontend developer based in the UAE, building real projects while sh
 Actively job hunting for junior developer roles in the UAE, while continuing to build and ship frontend projects independently.
 
 ## 📫 Reach me
-- LinkedIn: [your link]
-- Email: [your email]
+- LinkedIn: [https://www.linkedin.com/in/hannan-abdullah-480aa3229/]
+- Email: [its.hannan.abdullah@gmail.com]
